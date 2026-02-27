@@ -33,13 +33,13 @@
     "multi-device",
     "Dex-ai"
   ],
-  "homepage": "https://github.com/Dexsam07/SHYAM-MD",
+  "homepage": "https://github.com/TKTTECH1/TKT-CYBER-XD",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dexsam07/SHYAM-MD.git"
+    "url": "git+https://github.com/TKTTECH1/TKT-CYBER-XD.git"
   },
   "bugs": {
-    "url": "https://github.com/Dexsam07/SHYAM-MD/issues"
+    "url": "https://github.com/TKTTECH1/TKT-CYBER-XD/issues"
   },
   "license": "MIT",
   "author": "Dexsam07",
@@ -99,7 +99,7 @@
       "role": "Lead Developer"
     },
     {
-      "name": "Dexsam07",
+      "name": "TKTTECH1",
       "role": "Maintainer"
     }
   ]
