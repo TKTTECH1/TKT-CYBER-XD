@@ -3,8 +3,8 @@ const settings = {
   prefixes: ['.', '!', '/'],
 
   // Sticker pack & author name
-  packname: 'SHYAM-BOT',
-  author: 'dexsam07',
+  packname: 'TKT-TECH',
+  author: 'TKTTECH1',
 
   // Timezone for logs & time-based features
   timeZone: 'Africa/Harare',
@@ -13,8 +13,8 @@ const settings = {
   botName: '𝐓𝐊𝐓-𝐂𝐘𝐁𝐄𝐑-𝐗𝐃',
 
   // Owner information
-  botOwner: 'Dex Shyam Chaudhari',
-  ownerNumber: '917384287404',          // without + or spaces
+  botOwner: '𝐝𝐞𝐯 𝐓𝐀𝐅𝐀𝐃𝐙𝐖𝐀-𝐓𝐊𝐓-𝐓𝐄𝐂𝐇',
+  ownerNumber: '263781400473',          // without + or spaces
 
   // Giphy API key (for gif commands if used)
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
