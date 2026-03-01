@@ -85,7 +85,7 @@ module.exports = {
       await wait(1500);
 
       // Download the song with retry logic
-      const downloadUrl = `https://api.qasimdev.dpdns.org/api/spotify/download?apiKey=qasim-dev&url=${encodeURIComponent(spotifyUrl)}`;
+      const downloadUrl = `https://arslan-apis.vercel.app/download/ytmp3?url=${encodeURIComponent(spotifyUrl)}`;
       const downloadResponse = await apiCallWithRetry(downloadUrl, 3, 3000);
 
       if (!downloadResponse.data?.success || !downloadResponse.data?.data?.download) {
