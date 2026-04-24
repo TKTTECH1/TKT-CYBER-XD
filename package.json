@@ -33,13 +33,13 @@
     "multi-device",
     "Dex-ai"
   ],
-  "homepage": "https://github.com/Dexsam07/SHYAM-MD",
+  "homepage": "https://github.com/TKTTECH1/TKT-CYBER-XD",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dexsam07/SHYAM-MD.git"
+    "url": "git+https://github.com/TKTTECH1/TKT-CYBER-XD.git"
   },
   "bugs": {
-    "url": "https://github.com/Dexsam07/SHYAM-MD/issues"
+    "url": "https://github.com/TKTTECH1/TKT-CYBER-XD/issues"
   },
   "license": "MIT",
   "author": "Dexsam07",
@@ -75,7 +75,7 @@
     "node-fetch": "^2.7.0",
     "node-id3": "^0.2.3",
     "node-webpmux": "^3.1.0",
-    "node-youtube-music": "^0.8.3",
+    "node-youtube-music": "latest",
     "performance-now": "^2.1.0",
     "pg": "^8.16.3",
     "qrcode": "^1.5.4",
@@ -84,8 +84,8 @@
     "simple-git": "^3.30.0",
     "syntax-error": "^1.4.0",
     "wa-sticker-formatter": "^4.4.4",
-    "yt-search": "^2.12.1",
-    "ytdl-core": "^4.11.5"
+    "yt-search": "latest",
+    "ytdl-core": "latest"
   },
   "overrides": {
     "jimp": "^1.6.0"
